@@ -1,5 +1,5 @@
-import turtle
-manoj = turtle.Pen()
+import turtle   #Importing Turtle Library
+manoj = turtle.Pen()  #Assigning Turtle Pen object to variable called Manoj
 manoj.color('red')
 manoj.shape('turtle')
 manoj.circle(200)
